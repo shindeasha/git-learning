@@ -50,6 +50,8 @@ class Tostring
         referenceCheck(st1, st2);  
         st1 += "ava";  
 		System.out.println(st1);
+		System.out.println("hello world");
+		System.out.println("hi hi hi");
         System.out.println("After Modification");  
         referenceCheck(st1, st2);  
     }  
